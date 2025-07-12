@@ -1,0 +1,1 @@
+    // deleteAtindex(head,0);
